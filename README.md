@@ -68,8 +68,7 @@ ArysGarage/
 │
 ├── frontend/                   # User Interface Layer
 │   ├── dashboard.py           # Streamlit dashboard (500+ lines)
-│   ├── requirements.txt       # Frontend dependencies (Streamlit, Plotly)
-│   └── config.py              # Dashboard configuration settings
+│   └── requirements.txt       # Frontend dependencies (Streamlit, Plotly)
 │
 ├── data/                       # Data Management Layer
 │   ├── raw/                   # Original Kaggle dataset
