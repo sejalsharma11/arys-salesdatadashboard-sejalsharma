@@ -1,0 +1,11 @@
+total_records: 2823
+active_records: 2763
+cancelled_records: 60
+total_sales: 9838141.370000001
+avg_order_value: 32469.113432343238
+avg_sales_per_record: 3560.673677162505
+unique_orders: 303
+unique_countries: 19
+date_range: 2003-01-06 00:00:00 to 2005-05-31 00:00:00
+top_country: Usa
+top_product_line: Classic Cars
